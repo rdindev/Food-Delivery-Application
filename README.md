@@ -4,7 +4,7 @@ Welcome to the Food Delivery Application! This project is designed to make order
 
 ## Live Demo
 
-Check out the live application [here]([your-deployed-link](https://food-del-frontend-157t.onrender.com/)).
+Check out the live application [here](your-deployed-link](https://food-del-frontend-157t.onrender.com/)).
 
 ## Features
 
